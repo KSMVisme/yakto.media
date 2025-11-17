@@ -1,11 +1,11 @@
 languageCode = 'pl'
-title = 'sdokFILM'
+title = 'YaktoMedia'
 theme = "nightfall"
 
 [params]
 user = 'ksmvsky'
-hostname = "sdok.pl"
-footerHtml = 'Instagram - FilmPolski - FaceBook'
+hostname = "yakto.media"
+footerHtml = '
 readingTime = false
 color = "orange"
 ico = "/assets/ico/Yakto_icon_universal.png"
