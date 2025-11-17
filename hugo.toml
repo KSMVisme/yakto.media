@@ -5,7 +5,7 @@ theme = "nightfall"
 [params]
 user = 'ksmvsky'
 hostname = "yakto.media"
-footerHtml = '
+footerHtml = 'stopka'
 readingTime = false
 color = "orange"
 ico = "/assets/ico/Yakto_icon_universal.png"
