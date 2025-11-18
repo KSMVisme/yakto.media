@@ -5,26 +5,26 @@ theme = "nightfall"
 [params]
 user = 'ksmvsky'
 hostname = "yakto.media"
-footerHtml = 'stopka'
+footerHtml = ''
 readingTime = false
 color = "orange"
 ico = "/assets/ico/Yakto_icon_universal.png"
 bckg = "/assets/vid/bckg.mp4"
 
 [params.author]
-name = "Szymon Kosmowski"
+name = "yakto.media"
 url = "/about"
 
 [[params.social]]
-name = "Advertisments"
+name = "Reklamy"
 url = "/categories/advertisement"
 
 [[params.social]]
-name = "Films"
+name = "Filmy"
 url = "/categories/film"
 
 [[params.social]]
-name = "Music"
+name = "Muzyka"
 url = "/categories/music"
 
 [[params.social]]
@@ -32,32 +32,32 @@ name = "Selfmade"
 url = "/categories/selfmade"
 
 [[params.social]]
-name = "Reels"
+name = "Rolki"
 url = "/categories/reel/"
 
 [[params.social]]
-name = "Videoclips"
+name = "Teledyski"
 url = "/categories/videoclip"
 
 
 [menu]
 
 [[menu.header]]
-name = "about"
+name = "o mnie"
 weight = 1
 url = "/about"
 
 [[menu.header]]
-name = "new"
+name = "nowe"
 weight = 2
 url = "/posts"
 
 [[menu.header]]
-name = "tags"
+name = "kategorie"
 weight = 3
 url = "/tags/"
 
 [[menu.header]]
-name = "hire"
+name = "kontakt"
 weight = 4
 url = "/hire"
