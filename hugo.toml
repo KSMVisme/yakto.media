@@ -5,14 +5,14 @@ theme = "nightfall"
 [params]
 user = 'ksmvsky'
 hostname = "yakto.media"
-footerHtml = ''
+footerHtml = '© 2025 yakto.media'
 readingTime = false
 color = "orange"
 ico = "/assets/ico/Yakto_icon_universal.png"
 bckg = "/assets/vid/bckg.mp4"
 
 [params.author]
-name = "yakto.media"
+name = "Szymon Kosmowski"
 url = "/about"
 
 [[params.social]]
@@ -43,21 +43,21 @@ url = "/categories/videoclip"
 [menu]
 
 [[menu.header]]
-name = "o mnie"
+name = "O mnie"
 weight = 1
 url = "/about"
 
 [[menu.header]]
-name = "nowe"
+name = "Nowe"
 weight = 2
 url = "/posts"
 
 [[menu.header]]
-name = "kategorie"
+name = "Kategorie"
 weight = 3
-url = "/tags/"
+url = "/tags"
 
 [[menu.header]]
-name = "kontakt"
+name = "Nontakt"
 weight = 4
 url = "/hire"
